@@ -35,3 +35,7 @@ This course has the following software requirements:<br/>
 
 * [Hands-On Deep Learning with TensorFlow 2.0 [Video]](https://www.packtpub.com/application-development/hands-deep-learning-tensorflow-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781789951707)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788396899">https://packt.link/free-ebook/9781788396899 </a> </p>
